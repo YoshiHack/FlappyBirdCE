@@ -5,11 +5,12 @@
 # Set COMPRESSED to "YES" to create a compressed program
 # ----------------------------
 
-NAME        ?= FLAPPYB
+NAME        ?= Yoshi FLAPPYBIRD
 COMPRESSED  ?= YES
 ICON        ?= iconc.png
 DESCRIPTION ?= "FlappyBird"
 
 # ----------------------------
+
 
 include $(CEDEV)/include/.makefile
